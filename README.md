@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blog preview card challenge on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Blog preview card challenge on Frontend Mentor](https://your-live-site-url.com)
+- Solution URL: [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-Tk8O03qcUq)
+- Live Site URL: [Blog preview card challenge on Frontend Mentor](https://lost50u1.github.io/blog-preview-card-main/)
 
 ## My process
 
